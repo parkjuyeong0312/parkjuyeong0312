@@ -20,10 +20,6 @@
 <p>
   <!-- AI / Data -->
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-%2380CBC4.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Diffusion%20Model-%23316F7C.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LoRA-%23F3BA2F.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ComfyUI-%23848FCC.svg?&style=for-the-badge"/>
 </p>
 
 
