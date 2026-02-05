@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-
+## :runner: 활동이력
 **👣 2024**  
 - 2024.03~2024.12 서울시립대학교 컴퓨터과학부 소모임 ALOC 부원
 - 2024.07. 창업실습인턴(어포나티주식회사),KIMPRO 인턴(FE)
