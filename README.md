@@ -9,4 +9,6 @@
   </picture>
 </div>
 
-**[기술블로그를 개설했어요!](https://givemebob.tistory.com/)**
+
+### 💁‍♂️ 운영중
+[우때 : 실시간 협업 여행계획 서비스](https://uttae.app)
